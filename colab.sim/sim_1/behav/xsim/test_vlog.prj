@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../colab.srcs/sources_1/new/ALU.v" \
+"../../../../../../drive-download-20200302T184001Z-001/Int_Mem.v" \
+"../../../../../../drive-download-20200209T053517Z-001/data_mem.v" \
+"../../../../colab.srcs/sources_1/new/decoder.v" \
+"../../../../../../drive-download-20200302T184001Z-001/reg_file.v" \
+"../../../../../../drive-download-20200302T184001Z-001/test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

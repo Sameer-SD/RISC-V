@@ -1,0 +1,11 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/Sheeeep/Downloads/drive-download-20200209T053517Z-001/data_mem.v,1583348856,verilog,,C:/Users/Sheeeep/Downloads/lab_2-20200201T160210Z-001/colab/colab.srcs/sources_1/new/decoder.v,,data_mem,,,,,,,,
+C:/Users/Sheeeep/Downloads/drive-download-20200302T184001Z-001/Int_Mem.v,1583344002,verilog,,C:/Users/Sheeeep/Downloads/drive-download-20200209T053517Z-001/data_mem.v,,Int_Mem,,,,,,,,
+C:/Users/Sheeeep/Downloads/drive-download-20200302T184001Z-001/reg_file.v,1583347890,verilog,,C:/Users/Sheeeep/Downloads/drive-download-20200302T184001Z-001/test.v,,reg_file,,,,,,,,
+C:/Users/Sheeeep/Downloads/drive-download-20200302T184001Z-001/test.v,1583349832,verilog,,,,test,,,,,,,,
+C:/Users/Sheeeep/Downloads/lab_2-20200201T160210Z-001/colab/colab.sim/sim_1/behav/xsim/glbl.v,1580145838,verilog,,,,glbl,,,,,,,,
+C:/Users/Sheeeep/Downloads/lab_2-20200201T160210Z-001/colab/colab.srcs/sources_1/new/ALU.v,1583342728,verilog,,C:/Users/Sheeeep/Downloads/drive-download-20200302T184001Z-001/Int_Mem.v,,ALU,,,,,,,,
+C:/Users/Sheeeep/Downloads/lab_2-20200201T160210Z-001/colab/colab.srcs/sources_1/new/decoder.v,1583349743,verilog,,C:/Users/Sheeeep/Downloads/drive-download-20200302T184001Z-001/reg_file.v,,decoder,,,,,,,,
